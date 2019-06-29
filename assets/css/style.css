@@ -1,0 +1,202 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;     
+}
+
+header {
+    padding: 20px;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 100%;
+}
+
+hr {
+    color: gray;
+    height: 5px;
+    margin-bottom:0%;
+}
+
+#green-me {
+    width: 250px;
+    height: 100px;
+    position: relative;
+    top: 45px;
+    left: 16%;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    justify-content: right;
+    text-align: center;
+    line-height: 3;
+    font-size: 36px;
+}
+
+h1, h2 {
+    color: #4aaaa5;
+    font-size: 25px;
+    
+}
+
+.portfolio {
+    color: #4aaaa5;
+    font-size: 25px;
+    font-weight: bold;
+    left: -3px;
+}
+
+.image-bk {
+    margin-top: 0%;
+    width: 100%;
+    height: 700px;
+    clear: both;
+}
+
+.body3 {
+    padding: 20px;
+    position: absolute;
+    background-color: #ffffff;
+    position: absolute;
+    top: 30%;
+    left: -3%;
+    width: 65%;
+    height: 90%;
+}
+
+#About, #Portfolio, #Contact {
+    float: right;
+    padding: 5px;
+    margin-right: 1%;
+    width: 90px;
+    border-right-color: lightgray;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: lightgray;
+}
+
+.content-area {
+    padding: 10px;
+    position: relative;
+    bottom: 115%;
+    margin-top: 10%;
+    margin-left: 17%;
+    margin-right: 30%;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    width: 960px;
+    height: 600px;
+    line-height: 2;
+    justify-content: center;
+    
+}
+
+.Jeremy {
+    float: left;
+    height: 200px;
+    width: 300px;
+}
+
+.body-container {
+    padding: 20px;
+    position: absolute;
+    background-color: #ffffff;
+    position: absolute;
+    top: 30%;
+    left: -3%;
+    width: 950px;
+    height: 600px;
+}
+
+#submit {
+    height: 10px;
+    width: 25px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+#pic1,
+#pic2, 
+#pic3,
+#pic4,
+#pic5 {
+    width: 150px;
+    height: 150px;
+}
+
+#pic1 {
+    position:absolute;
+    top: 15%;
+}
+
+#pic2 {
+    position: absolute;
+    top: 15%;
+    left: 22%;
+}
+
+#pic3 {
+    position: absolute;
+    top: 40%;
+    left: 2%;
+}
+
+#pic4 {
+    position: absolute;
+    top: 40%;
+    left: 22%;
+}
+
+#pic5 {
+    position: absolute;
+    top: 65%;
+    left: 2%;
+}
+
+#beer,
+#red-bull,
+#skateboard,
+#music,
+#technology {
+    width: 16.25%;
+    height: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
+
+#beer {
+    position: absolute;
+    top: 32%;
+    
+    
+}
+
+#red-bull {
+    position: absolute;
+    top: 32%;
+    left: 22%;
+}
+
+#skateboard {
+    position: absolute;
+    top: 56.5%;
+}
+
+#music {
+    position: absolute;
+    top: 56.5%;
+    left: 22%;
+}
+
+#technology {
+    position: absolute;
+    top: 81%;
+}
+footer {
+    padding: 20px;
+    background-color: #666666;
+    border-top-color: #4aaaa5;
+    border-bottom-color: #666666;
+    border-right-color: #666666;
+    border-left-color: #666666;
+    border-top-width: 10px;
+    border-style: solid;
+}
